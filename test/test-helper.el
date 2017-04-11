@@ -34,8 +34,7 @@
 (require 'ert)
 (require 'el-mock)
 (eval-when-compile
-    (require 'cl))
+  (require 'cl))
 (require 'matrix-client)
 
-(provide 'test-helper)
 ;;; test-helper.el ends here
